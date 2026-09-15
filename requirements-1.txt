@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+tensorflow
+numpy
+scikit-learn
+gtts
+playsound3
+Pillow
+arabic-reshaper
+python-bidi
